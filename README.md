@@ -349,3 +349,8 @@ Proyek ini juga merupakan implementasi pengembangan web menggunakan PHP, MySQL, 
 Developed as a Web-Based Hall Reservation System project.
 
 **Graha Serbaguna — Simplifying Hall Reservation Management.**
+
+![PHP](https://img.shields.io/badge/PHP-8%2B-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-XAMPP-orange)
